@@ -27,3 +27,4 @@ g++ main.cpp func.cpp -o sokoban
 ```bash
 ./sokoban
 ```
+### Самсонов Артём ИТ-12
